@@ -1,10 +1,12 @@
 .movieText {
    color: darkred;
    text-align: left;
+   font-size: 2em;
 }
 
 .movieHeading {
    color: rgb(194, 93, 93);
    text-align: left;
-   font-size: 2em;
+   font-size: 3em;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
